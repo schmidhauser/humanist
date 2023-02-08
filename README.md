@@ -1,2 +1,2 @@
-# humanist
+# Humanist
 A macOS Keyboard Layout
